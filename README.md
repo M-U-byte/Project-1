@@ -10,28 +10,34 @@ Functional Requirments :
 
 The basic Function that the website would do:
 1. User Accounts
+   
 • Users can register with username, email, and password.
 • Users can log in and log out
 
-2. Music Library
+3. Music Library
+   
 • Songs are stored with metadata: title, artist, file path.
 • Users can browse all available songs.
 • Users can search songs by name, artist or date
 
-3. Streaming
+5. Streaming
+   
 • Users can click on a song and stream it.
 • The site should not allow downloading of audio files (stream only).
 
-5. Favorites/History
+7. Favorites/History
+   
 • Users can mark songs as favorites.
 • Users can view a list of their favorite songs.
 • Users can view the song name he has listened in history tab
 
-6. Admin Panel
+9. Admin Panel
+    
 • Admin can add, update, or delete songs.
 • Admin can manage user accounts.
 
 7.Indexing
+
 • Admin can Index any column in a table or drop any indexed column
 
 Database Requirements:
